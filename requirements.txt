@@ -1,0 +1,10 @@
+Django==2.0.11
+psycopg2-binary
+pillow
+django-bootstrap4
+django-crispy-forms
+django-tables2
+django-filter
+djangorestframework
+markdown
+python-chess
